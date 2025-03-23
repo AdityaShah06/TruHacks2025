@@ -1,0 +1,42 @@
+John Doe
+Software Engineer | Machine Learning Specialist
+
+Professional Summary:
+Accomplished Software Engineer and Machine Learning Specialist with over three years of experience in developing scalable, full-stack web applications and AI-driven solutions. Proficient in Python, React.js, Node.js, and cloud platforms like AWS and Azure, with a focus on real-time data processing and user-friendly interfaces. Skilled in building and deploying machine learning models using TensorFlow, PyTorch, and Scikit-learn, and implementing RAG-based systems with LangChain for knowledge synthesis. Adept at collaborating with cross-functional teams to deliver high-impact solutions and present actionable insights to stakeholders.
+
+Skills:
+• Programming Languages: Python, JavaScript, TypeScript, SQL
+• AI/ML Frameworks and Tools: TensorFlow, PyTorch, Scikit-learn, LangChain, Hugging Face, Pandas, NumPy
+• Cloud Platforms and Databases: AWS, Azure, PostgreSQL, MongoDB
+• Web Development: React.js, Next.js, Node.js, Express, Tailwind CSS
+• DevOps and Productivity: Docker, GitHub, AWS DevOps, Version Control, Jira
+• Certifications: AWS Certified Machine Learning – Specialty, Microsoft Certified Azure AI Engineer Associate
+
+Work Experience:
+Machine Learning Engineer – FPT Software, Vietnam	Jun 2024 – Aug 2024
+• Developed and deployed an AI-powered solution for real-time image processing, optimizing storage and retrieval of 5,000 wedding album images using TensorFlow and PyTorch.
+• Leveraged Azure AI Vision for CNN-based image analysis and AWS for scalable deployment, integrating Blob Storage for original images and Cosmos DB for vector storage.
+• Fine-tuned models to achieve 92% accuracy, collaborating with cross-functional teams to secure PoC approval, projecting $27,000 in revenue.
+
+Full Stack Developer – Tech Innovate, Vietnam	Jul 2023 – Aug 2023
+• Built a full-stack web application for a healthcare client using React.js, Node.js, and Python, deployed on AWS, improving user engagement by 35% through intuitive interfaces.
+• Designed and implemented RESTful APIs with Express and Node.js, ensuring scalability and reducing response times by 20%.
+• Collaborated with cross-functional teams to deliver a user-friendly platform, presenting system performance insights to stakeholders.
+
+Data Science Intern – Vietnam National University, Vietnam	Jun 2022 – Aug 2022
+• Created a ground truth database for human pose detection, collecting 10,000 labeled images and analyzing data with Python, Scikit-learn, and Pandas.
+• Built and fine-tuned machine learning models for predictive analytics, achieving 88% accuracy and improving model performance by 15%.
+• Presented actionable insights to stakeholders, earning 2nd place at the regional Science and Technology competition.
+
+Projects:
+Project Lead – RAG-based Research Synthesis Tool (SyntheSearch), MA	Nov 2024 – Present
+• Engineered an AI-powered web application using LangChain and Hugging Face models, implementing a Retrieval-Augmented Generation (RAG) system to synthesize insights from 100+ research documents.
+• Developed a full-stack solution with a Python backend, React.js frontend, and Azure for deployment, optimizing knowledge synthesis and reducing literature review time by 75%.
+• Enhanced research efficiency with advanced LLM-driven insights, deployed on Azure for scalability.
+
+Software Engineering Lead – Hospital Management Web Application, MA	Mar 2024 – May 2024
+• Led a team of 11 to develop a hospital management web app using React.js, Node.js, and PostgreSQL, deployed on AWS.
+• Implemented a machine learning scheduling system with TensorFlow, achieving 90% accuracy in task scheduling, and integrated real-time data insights with a user-friendly interface.
+• Designed 10 UML diagrams to clarify system architecture, facilitating effective communication with stakeholders.
+
+Project Lead – Machine Learning System for Cancer Detection	Sep 2024 – De

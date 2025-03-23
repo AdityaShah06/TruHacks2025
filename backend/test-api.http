@@ -1,0 +1,7 @@
+POST https://r2r-latest.onrender.com/api/github-project
+Content-Type: application/json
+
+{
+    "owner": "PhongCT1105",
+    "repo": "SyntheSearch",
+}
